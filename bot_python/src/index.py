@@ -68,4 +68,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name="Tututorial", url="http://www.twitch.tv/accountname" ))
     print("el servidor de discord esta corriendo")
 
-bot.run('ODYwNTk0Nzk0OTU3NjM1NTg0.YN9hXA.ulTYexmfM-j5tCQ-QDkewGgrly4')
+bot.run('token')
